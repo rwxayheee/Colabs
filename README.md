@@ -42,7 +42,7 @@ My repository of Google Colab notebooks
 ### 02_Flexible_Docking
  <a href="https://colab.research.google.com/drive/1cazEckGbvl9huWzpxXpd_Qaj0_NipWcz?usp=sharing">091624_Vina_flexible_docking.ipynb</a>
 
-### 03_Use_of_AD4
+### 03_Using_AD4SF
  <a href="https://colab.research.google.com/drive/1zoSyID2fSoqGz3Zb1_IatUT2uxZ2mCNZ?usp=sharing">091624_Vina_docking_with_AD4SF.ipynb</a>
 
 
