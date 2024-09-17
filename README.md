@@ -1,6 +1,32 @@
 # Colabs
 My repository of Google Colab notebooks
 
+```
+├── Compiled_for_Colab
+│   ├── AutoDock-GPU_v1.5.3
+│   │   ├── 091624_Compile_ADGPU_v153.ipynb
+│   │   ├── adgpu_analysis
+│   │   └── autodock_gpu_128wi
+│   └── AutoGird_v4.2.6
+│       ├── 091624_Compile_AutoGrid.ipynb
+│       └── autogrid4
+├── Meeko_RTD_Examples
+│   ├── 01_Covalent_Docking
+│   │   ├── 091724_Meeko_covalent_docking.ipynb
+│   │   └── output.zip
+│   └── 02_Reactive_Docking
+└── Vina_RTD_Examples
+    ├── 01_Basic_Docking
+    │   ├── 091624_Vina_basic_docking.ipynb
+    │   └── output.zip
+    ├── 02_Flexible_Docking
+    │   ├── 091624_Vina_flexible_docking.ipynb
+    │   └── output.zip
+    └── 03_Using_AD4SF
+        ├── 091624_Vina_docking_with_AD4SF.ipynb
+        └── output.zip
+```
+
 ## Compiled_for_Colab
 ### AutoDock-GPU_v1.5.3
  <a href="https://colab.research.google.com/drive/1XawsbDVut9nA3Y8byS1jwnzubHDJQAR9?usp=sharing">091624_Compile_ADGPU_v153.ipynb</a>
