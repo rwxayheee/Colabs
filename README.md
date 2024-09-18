@@ -51,3 +51,4 @@ My repository of Google Colab notebooks
  <a href="https://colab.research.google.com/drive/1tf9xOgn6u8eDTeFJtc8GCEGRX-8aR9Bo?usp=sharing">091724_Meeko_covalent_docking.ipynb</a>
 
  ### 02_Reactive_Docking
+  <a href="https://colab.research.google.com/drive/1tzQoguVQDCguOaLSsGvQuL57ry_PY3UG?usp=sharing">091724_Meeko_reactive_docking.ipynb</a>
