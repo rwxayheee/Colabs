@@ -15,6 +15,8 @@ My repository of Google Colab notebooks
 │   │   ├── 091724_Meeko_covalent_docking.ipynb
 │   │   └── output.zip
 │   └── 02_Reactive_Docking
+│       ├── 091724_Meeko_reactive_docking.ipynb
+│       └── output.zip
 └── Vina_RTD_Examples
     ├── 01_Basic_Docking
     │   ├── 091624_Vina_basic_docking.ipynb
