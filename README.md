@@ -1,6 +1,8 @@
 # Colabs
 My repository of Google Colab notebooks
 
+![Docking Workflow](images/docking_workflow.png)
+
 ```
 ├── Compiled_for_Colab
 │   ├── AutoDock-GPU_v1.5.3
