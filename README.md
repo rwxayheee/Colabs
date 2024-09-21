@@ -19,16 +19,19 @@ My repository of Google Colab notebooks
 │   └── 02_Reactive_Docking
 │       ├── 091724_Meeko_reactive_docking.ipynb
 │       └── output.zip
-└── Vina_RTD_Examples
-    ├── 01_Basic_Docking
-    │   ├── 091624_Vina_basic_docking.ipynb
-    │   └── output.zip
-    ├── 02_Flexible_Docking
-    │   ├── 091624_Vina_flexible_docking.ipynb
-    │   └── output.zip
-    └── 03_Using_AD4SF
-        ├── 091624_Vina_docking_with_AD4SF.ipynb
-        └── output.zip
+├── Vina_RTD_Examples
+│   ├── 01_Basic_Docking
+│   │   ├── 091624_Vina_basic_docking.ipynb
+│   │   └── output.zip
+│   ├── 02_Flexible_Docking
+│   │   ├── 091624_Vina_flexible_docking.ipynb
+│   │   └── output.zip
+│   ├── 03_Using_AD4SF
+│   │   ├── 091624_Vina_docking_with_AD4SF.ipynb
+│   │   └── output.zip
+│   └── 04_RNA-Small_Molecule_Basic_Docking
+│       ├── 092124_RNA_small_molecule_basic_docking.ipynb
+│       └── output.zip
 ```
 
 ## Compiled_for_Colab
@@ -48,6 +51,9 @@ My repository of Google Colab notebooks
 
 ### 03_Using_AD4SF
  <a href="https://colab.research.google.com/drive/1zoSyID2fSoqGz3Zb1_IatUT2uxZ2mCNZ?usp=sharing">091624_Vina_docking_with_AD4SF.ipynb</a>
+
+### 04_RNA-Small_Molecule_Basic_Docking
+ <a href="https://colab.research.google.com/drive/1hkt-XYebvAvbAf3cxZ3Yfze5R2lzhUfO?usp=sharing">092124_RNA-small_molecule_basic_docking.ipynb</a>
 
 
 ## Meeko_RTD_Examples
