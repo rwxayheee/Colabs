@@ -36,7 +36,7 @@ My repository of Google Colab notebooks
 
 ## Compiled_for_Colab
 ### AutoDock-GPU_v1.5.3
- <a href="https://colab.research.google.com/drive/1XawsbDVut9nA3Y8byS1jwnzubHDJQAR9?usp=sharing">091624_Compile_ADGPU_v153.ipynb</a>
+ <a href="https://colab.research.google.com/drive/1ctEm2Z0XKk_rA3PwfF1OpIh1kSPkHC_l?usp=sharing">091624_Compile_ADGPU_v153.ipynb</a>
 
 ### AutoGrid_v4.2.6
  <a href="https://colab.research.google.com/drive/1XawsbDVut9nA3Y8byS1jwnzubHDJQAR9?usp=sharing">091624_Compile_AutoGrid.ipynb</a>
