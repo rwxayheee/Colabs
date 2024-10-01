@@ -29,8 +29,11 @@ My repository of Google Colab notebooks
 │   ├── 03_Using_AD4SF
 │   │   ├── 091624_Vina_docking_with_AD4SF.ipynb
 │   │   └── output.zip
-│   └── 04_RNA-Small_Molecule_Basic_Docking
-│       ├── 092124_RNA_small_molecule_basic_docking.ipynb
+│   ├── 04_RNA-Small_Molecule_Basic_Docking
+│   │   ├── 092124_RNA_small_molecule_basic_docking.ipynb
+│   │   └── output.zip
+│   └── 05_Basic_Docking_with_Cofactors
+│       ├── 093024_Basic_docking_with_Cofactors.ipynb
 │       └── output.zip
 ```
 
@@ -55,6 +58,8 @@ My repository of Google Colab notebooks
 ### 04_RNA-Small_Molecule_Basic_Docking
  <a href="https://colab.research.google.com/drive/1hkt-XYebvAvbAf3cxZ3Yfze5R2lzhUfO?usp=sharing">092124_RNA-small_molecule_basic_docking.ipynb</a>
 
+### 05_Basic_Docking_with_Cofactors
+ <a href="https://colab.research.google.com/drive/1-2yoPRVsmrLoYzLQGi_3KGWLlRk7ETdn?usp=sharing">093024_Basic_docking_with_Cofactors.ipynb</a>
 
 ## Meeko_RTD_Examples
 ### 01_Covalent_Docking

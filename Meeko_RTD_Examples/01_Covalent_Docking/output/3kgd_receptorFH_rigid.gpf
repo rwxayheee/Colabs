@@ -1,0 +1,29 @@
+parameter_file boron-silicon-atom_par.dat
+npts 50 68 64
+gridfld 3kgd_receptorFH_rigid.maps.fld
+spacing 0.375
+receptor_types HD C A N NA OA F P SA S Cl Br I Mg Ca Mn Fe Zn
+ligand_types HD C A N NA OA F P SA S Cl CL Br BR I Si B
+receptor 3kgd_receptorFH_rigid.pdbqt
+gridcenter -7.595 -38.191 -1.830
+smooth 0.500
+map 3kgd_receptorFH_rigid.HD.map
+map 3kgd_receptorFH_rigid.C.map
+map 3kgd_receptorFH_rigid.A.map
+map 3kgd_receptorFH_rigid.N.map
+map 3kgd_receptorFH_rigid.NA.map
+map 3kgd_receptorFH_rigid.OA.map
+map 3kgd_receptorFH_rigid.F.map
+map 3kgd_receptorFH_rigid.P.map
+map 3kgd_receptorFH_rigid.SA.map
+map 3kgd_receptorFH_rigid.S.map
+map 3kgd_receptorFH_rigid.Cl.map
+map 3kgd_receptorFH_rigid.CL.map
+map 3kgd_receptorFH_rigid.Br.map
+map 3kgd_receptorFH_rigid.BR.map
+map 3kgd_receptorFH_rigid.I.map
+map 3kgd_receptorFH_rigid.Si.map
+map 3kgd_receptorFH_rigid.B.map
+elecmap 3kgd_receptorFH_rigid.e.map
+dsolvmap 3kgd_receptorFH_rigid.d.map
+dielectric -42.000
