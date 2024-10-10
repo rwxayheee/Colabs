@@ -21,13 +21,13 @@ My repository of Google Colab notebooks
 │       └── output.zip
 ├── Vina_RTD_Examples
 │   ├── 01_Basic_Docking
-│   │   ├── 091624_Vina_basic_docking.ipynb
+│   │   ├── Vina_RTD_01_Basic_Docking.ipynb
 │   │   └── output.zip
 │   ├── 02_Flexible_Docking
-│   │   ├── 091624_Vina_flexible_docking.ipynb
+│   │   ├── Vina_RTD_02_Flexible_Docking.ipynb
 │   │   └── output.zip
 │   ├── 03_Using_AD4SF
-│   │   ├── 091624_Vina_docking_with_AD4SF.ipynb
+│   │   ├── Vina_RTD_03_Docking_with_AD4SF.ipynb
 │   │   └── output.zip
 │   ├── 04_RNA-Small_Molecule_Basic_Docking
 │   │   ├── 092124_RNA_small_molecule_basic_docking.ipynb
