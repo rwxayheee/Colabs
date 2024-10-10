@@ -47,13 +47,13 @@ My repository of Google Colab notebooks
 
 ## Vina_RTD_Examples
 ### 01_Basic_Docking
- <a href="https://colab.research.google.com/drive/1cHSl78lBPUc_J1IZxLgN4GwD_ADmohVU?usp=sharing">091624_Vina_basic_docking.ipynb</a>
+ <a href="https://colab.research.google.com/drive/1cHSl78lBPUc_J1IZxLgN4GwD_ADmohVU?usp=sharing">Vina_RTD_01_Basic_Docking.ipynb</a>
 
 ### 02_Flexible_Docking
- <a href="https://colab.research.google.com/drive/1cazEckGbvl9huWzpxXpd_Qaj0_NipWcz?usp=sharing">091624_Vina_flexible_docking.ipynb</a>
+ <a href="https://colab.research.google.com/drive/1cazEckGbvl9huWzpxXpd_Qaj0_NipWcz?usp=sharing">Vina_RTD_02_Flexible_Dockingb</a>
 
 ### 03_Using_AD4SF
- <a href="https://colab.research.google.com/drive/1zoSyID2fSoqGz3Zb1_IatUT2uxZ2mCNZ?usp=sharing">091624_Vina_docking_with_AD4SF.ipynb</a>
+ <a href="https://colab.research.google.com/drive/1zoSyID2fSoqGz3Zb1_IatUT2uxZ2mCNZ?usp=sharing">Vina_RTD_03_Docking_with_AD4SF.ipynb</a>
 
 ### 04_RNA-Small_Molecule_Basic_Docking
  <a href="https://colab.research.google.com/drive/1hkt-XYebvAvbAf3cxZ3Yfze5R2lzhUfO?usp=sharing">092124_RNA-small_molecule_basic_docking.ipynb</a>
