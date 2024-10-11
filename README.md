@@ -30,10 +30,10 @@ My repository of Google Colab notebooks
 │   │   ├── Vina_RTD_03_Docking_with_AD4SF.ipynb
 │   │   └── output.zip
 │   ├── 04_RNA-Small_Molecule_Basic_Docking
-│   │   ├── 092124_RNA_small_molecule_basic_docking.ipynb
+│   │   ├── Vina_04_RNA_Small_Molecule_Basic_Docking.ipynb
 │   │   └── output.zip
 │   └── 05_Basic_Docking_with_Cofactors
-│       ├── 093024_Basic_docking_with_Cofactors.ipynb
+│       ├── Vina_05_Basic_Docking_with_Cofactor_in_Receptor.ipynb
 │       └── output.zip
 ```
 
@@ -56,10 +56,10 @@ My repository of Google Colab notebooks
  <a href="https://colab.research.google.com/drive/1zoSyID2fSoqGz3Zb1_IatUT2uxZ2mCNZ?usp=sharing">Vina_RTD_03_Docking_with_AD4SF.ipynb</a>
 
 ### 04_RNA-Small_Molecule_Basic_Docking
- <a href="https://colab.research.google.com/drive/1hkt-XYebvAvbAf3cxZ3Yfze5R2lzhUfO?usp=sharing">092124_RNA-small_molecule_basic_docking.ipynb</a>
+ <a href="https://colab.research.google.com/drive/1hkt-XYebvAvbAf3cxZ3Yfze5R2lzhUfO?usp=sharing">Vina_04_RNA_Small_Molecule_Basic_Docking.ipynb</a>
 
 ### 05_Basic_Docking_with_Cofactors
- <a href="https://colab.research.google.com/drive/1-2yoPRVsmrLoYzLQGi_3KGWLlRk7ETdn?usp=sharing">093024_Basic_docking_with_Cofactors.ipynb</a>
+ <a href="https://colab.research.google.com/drive/1-2yoPRVsmrLoYzLQGi_3KGWLlRk7ETdn?usp=sharing">Vina_05_Basic_Docking_with_Cofactor_in_Receptor.ipynb</a>
 
 ## Meeko_RTD_Examples
 ### 01_Covalent_Docking
