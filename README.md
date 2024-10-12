@@ -14,10 +14,10 @@ My repository of Google Colab notebooks
 │       └── autogrid4
 ├── Meeko_RTD_Examples
 │   ├── 01_Covalent_Docking
-│   │   ├── 091724_Meeko_covalent_docking.ipynb
+│   │   ├── Meeko_RTD_01_Covalent_Docking.ipynb
 │   │   └── output.zip
 │   └── 02_Reactive_Docking
-│       ├── 091724_Meeko_reactive_docking.ipynb
+│       ├── Meeko_RTD_02_Reactive_Docking.ipynb
 │       └── output.zip
 ├── Vina_RTD_Examples
 │   ├── 01_Basic_Docking
@@ -63,7 +63,7 @@ My repository of Google Colab notebooks
 
 ## Meeko_RTD_Examples
 ### 01_Covalent_Docking
- <a href="https://colab.research.google.com/drive/1tf9xOgn6u8eDTeFJtc8GCEGRX-8aR9Bo?usp=sharing">091724_Meeko_covalent_docking.ipynb</a>
+ <a href="https://colab.research.google.com/drive/1tf9xOgn6u8eDTeFJtc8GCEGRX-8aR9Bo?usp=sharing">Meeko_RTD_01_Covalent_Docking.ipynb</a>
 
  ### 02_Reactive_Docking
-  <a href="https://colab.research.google.com/drive/1tzQoguVQDCguOaLSsGvQuL57ry_PY3UG?usp=sharing">091724_Meeko_reactive_docking.ipynb</a>
+  <a href="https://colab.research.google.com/drive/1tzQoguVQDCguOaLSsGvQuL57ry_PY3UG?usp=sharing">Meeko_RTD_02_Reactive_Docking.ipynb</a>
