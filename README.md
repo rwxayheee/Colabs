@@ -5,7 +5,7 @@ My repository of Google Colab notebooks
 
 ```
 ├── Compiled_for_Colab
-│   ├── AutoDock-GPU_v1.5.3
+│   ├── AutoDock-GPU_v1.5.3_develop
 │   │   ├── 110624_Compile_ADGPU_develop.ipynb
 │   │   ├── adgpu_analysis
 │   │   └── autodock_gpu_128wi
@@ -13,12 +13,13 @@ My repository of Google Colab notebooks
 │       ├── 091624_Compile_AutoGrid.ipynb
 │       └── autogrid4
 ├── Meeko_RTD_Examples
-│   ├── 01_Covalent_Docking
-│   │   ├── Meeko_RTD_01_Covalent_Docking.ipynb
+│   ├── 01_Reactive_Docking
+│   │   ├── Meeko_RTD_01_Reactive_Docking.ipynb
 │   │   └── output.zip
-│   └── 02_Reactive_Docking
-│       ├── Meeko_RTD_02_Reactive_Docking.ipynb
+│   └── 02_Covalent_Docking
+│       ├── Meeko_RTD_02_Tethered_Docking.ipynb
 │       └── output.zip
+├── README.md
 ├── Vina_RTD_Examples
 │   ├── 01_Basic_Docking
 │   │   ├── Vina_RTD_01_Basic_Docking.ipynb
@@ -35,6 +36,8 @@ My repository of Google Colab notebooks
 │   └── 05_Basic_Docking_with_Cofactors
 │       ├── Vina_05_Basic_Docking_with_Cofactor_in_Receptor.ipynb
 │       └── output.zip
+└── images
+    └── docking_workflow.png
 ```
 
 ## Compiled_for_Colab
@@ -43,7 +46,6 @@ My repository of Google Colab notebooks
 
 ### AutoGrid_v4.2.6
  <a href="https://colab.research.google.com/drive/1XawsbDVut9nA3Y8byS1jwnzubHDJQAR9?usp=sharing">091624_Compile_AutoGrid.ipynb</a>
-
 
 ## Vina_RTD_Examples
 ### 01_Basic_Docking
@@ -62,8 +64,8 @@ My repository of Google Colab notebooks
  <a href="https://colab.research.google.com/drive/1-2yoPRVsmrLoYzLQGi_3KGWLlRk7ETdn?usp=sharing">Vina_05_Basic_Docking_with_Cofactor_in_Receptor.ipynb</a>
 
 ## Meeko_RTD_Examples
-### 01_Covalent_Docking
- <a href="https://colab.research.google.com/drive/1tf9xOgn6u8eDTeFJtc8GCEGRX-8aR9Bo?usp=sharing">Meeko_RTD_01_Covalent_Docking.ipynb</a>
+### 01_Reactive_Docking
+ <a href="https://colab.research.google.com/drive/1tzQoguVQDCguOaLSsGvQuL57ry_PY3UG?usp=sharing">Meeko_RTD_02_Reactive_Docking.ipynb</a>
 
- ### 02_Reactive_Docking
-  <a href="https://colab.research.google.com/drive/1tzQoguVQDCguOaLSsGvQuL57ry_PY3UG?usp=sharing">Meeko_RTD_02_Reactive_Docking.ipynb</a>
+### 02_Covalent_Docking
+ <a href="https://colab.research.google.com/drive/1tf9xOgn6u8eDTeFJtc8GCEGRX-8aR9Bo?usp=sharing">Meeko_RTD_01_Covalent_Docking.ipynb</a>
