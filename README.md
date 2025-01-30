@@ -41,11 +41,8 @@ My repository of Google Colab notebooks
 ```
 
 ## Compiled_for_Colab
-### AutoDock-GPU_v1.5.3_develop
- <a href="https://colab.research.google.com/drive/1LThHUu_UadQqzfYKTgZx4W0Q8a4h22f_?usp=sharing">110624_Compile_ADGPU_develop.ipynb</a>
-
-### AutoGrid_v4.2.6
- <a href="https://colab.research.google.com/drive/1XawsbDVut9nA3Y8byS1jwnzubHDJQAR9?usp=sharing">091624_Compile_AutoGrid.ipynb</a>
+### Compile AutoDock-GPU_v1.6
+ <a href="https://colab.research.google.com/drive/1LThHUu_UadQqzfYKTgZx4W0Q8a4h22f_?usp=sharing">111924_Compile_ADGPU_v1.6.ipynb</a>
 
 ## Vina_RTD_Examples
 ### 01_Basic_Docking
